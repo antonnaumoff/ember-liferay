@@ -16,6 +16,8 @@
 
 <%@ taglib uri="http://java.sun.com/portlet_2_0" prefix="portlet" %>
 
+<div id="root"></div>
+
 <portlet:defineObjects />
 
-This is the <b>hello-world</b>.
+This is the <b>react-test App!</b>.

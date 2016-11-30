@@ -1,2 +1,3 @@
 .idea
 target
+src/main/webapp/assets/node_modules
