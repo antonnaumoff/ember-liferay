@@ -16,8 +16,8 @@
 
 <%@ taglib uri="http://java.sun.com/portlet_2_0" prefix="portlet" %>
 
-<div id="root"></div>
+<%--<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.1.1/gh-fork-ribbon.min.css" />--%>
+
+<div id="ember-app">Loading...</div>
 
 <portlet:defineObjects />
-
-This is the <b>react-test App!</b>.
