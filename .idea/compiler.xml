@@ -28,7 +28,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="hello-world" target="1.6" />
-      <module name="react-test" target="1.6" />
+      <module name="react-test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
